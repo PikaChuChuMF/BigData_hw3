@@ -6,9 +6,9 @@
 
 ## Материалы
 
-1. **presentation.slides**: [Файл презентации в формате слайдов для использования с программой для просмотра презентаций (например, PowerPoint или Google Slides).](https://drive.google.com/file/d/1wThSratI8obOKzYP0_b23PguZUfXqK6m/view?usp=drive_link)
+1. **presentation.slides**: [PDF презентации.](https://drive.google.com/file/d/1wThSratI8obOKzYP0_b23PguZUfXqK6m/view?usp=drive_link)
 
-2. **Видео**: [Директория с примерами кода, демонстрирующими основные функции и возможности каждого инструмента.
+2. **Видео**: [Ссылка на видео.
 ](https://drive.google.com/file/d/1wThSratI8obOKzYP0_b23PguZUfXqK6m/view?usp=drive_link)
 
 ## Введение

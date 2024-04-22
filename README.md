@@ -1,4 +1,4 @@
-# Презентация: Альтернативы Spark на Python: Dask, Ray, Fugue
+# Альтернативы Spark на Python: Dask, Ray, Fugue
 
 ## Описание
 

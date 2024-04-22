@@ -12,7 +12,7 @@
 
 1. **presentation.slides**: [PDF презентации.](https://drive.google.com/file/d/1wThSratI8obOKzYP0_b23PguZUfXqK6m/view?usp=drive_link)
 
-2. **Видео**: [Ссылка на видео.][(https://drive.google.com/file/d/1J1Wfqzb0GrIwKp-Wl_aRo51ISHsMFJ4S/view?usp=drive_link)
+2. **Видео**: [Ссылка на видео.](https://drive.google.com/file/d/1J1Wfqzb0GrIwKp-Wl_aRo51ISHsMFJ4S/view?usp=drive_link)
 
 ## Введение
 
